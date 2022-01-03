@@ -1,0 +1,39 @@
+{
+  "homeInfo": {
+    "title": "用户管理",
+    "href": "usermanage.html"
+  },
+  "logoInfo": {
+    "title": "物资管理系统",
+    "image": "images/logo.png",
+    "href": ""
+  },
+  "menuInfo": [
+    {
+      "title": "常规管理",
+      "icon": "fa fa-address-book",
+      "href": "",
+      "target": "_self",
+      "child": [
+        {
+          "title": "用户管理",
+          "href": "usermanage.html",
+          "icon": "fa fa-user",
+          "target": ""
+        },
+        {
+          "title": "物资管理",
+          "href": "materialmanage.html",
+          "icon": "fa fa-bitbucket-square",
+          "target": ""
+        },
+        {
+          "title": "物资统计",
+          "href": "materialtree.html",
+          "icon": "fa fa-bar-chart",
+          "target": ""
+        }
+      ]
+    }
+  ]
+}
